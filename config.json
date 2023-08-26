@@ -1,0 +1,11 @@
+{
+	"token": "Account token that needs lockurl (must have perm manage server/admin)",
+	"ownerID": "Account ID",
+  
+	"notification": true,
+
+	"webhook_notification": true,
+	"webhook": "webhook url (for logs)",
+  
+	"guild_id": "server id, or url must be secure"
+    }
